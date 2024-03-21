@@ -19,5 +19,5 @@
 [Lab-06](https://github.com/alabakavamshi/AIML_2024/blob/main/Lab06.ipynb)
 
 
-[Lab-07](https://github.com/alabakavamshi/AIML_2024/blob/main/Lab07.ipynb)
+[Lab-07](https://github.com/alabakavamshi/AIML_2024/blob/main/LAB07.ipynb)
 
